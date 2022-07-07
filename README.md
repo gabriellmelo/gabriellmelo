@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate mobile developer student from Brazil</h3>
+<h3 align="center">A passionate Web Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **SWIFT, Java, HTML, CSS,PYTHON and PHP.**
+- 🌱 I’m currently learning **SWIFT, JAVA, HTML, CSS, JAVASCRIPT, PYTHON and PHP.**
 
 - 📫 How to reach me **gabriellucca.melo@gmail.com**
 
