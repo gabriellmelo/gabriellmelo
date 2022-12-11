@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate Web Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **SWIFT, JAVA, HTML, CSS, JAVASCRIPT, PYTHON and PHP.**
+- 🌱 I’m currently working with **HTML, CSS, JAVASCRIPT, TYPESCRIPT and ANGULAR.**
 
 - 📫 How to reach me **gabriellucca.melo@gmail.com**
 
