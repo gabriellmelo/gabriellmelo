@@ -1,10 +1,12 @@
-
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate Web Developer from Brazil</h3>
+<h3 align="center">A passionate Software Engineer and Data Enthusiast from Brazil</h3>
 
-- 🌱 I’m currently working with **HTML, CSS, JAVASCRIPT, TYPESCRIPT and ANGULAR.**
-
-- 📫 How to reach me **gabriellucca.melo@gmail.com**
+- 🌱 I’m currently working in **Software Engineering**, focusing on **front-end development** with **Angular**, **TypeScript**, and **Ionic**.
+- 🔍 I am actively seeking opportunities in **Data Science**, **Research**, and **Data Engineering** to apply my skills in data analysis, machine learning, and AI.
+- 📚 My recent experience includes data-driven projects, leveraging **Python**, **SQL**, and **Google BigQuery** for data analysis and visualization.
+- 🛠️ I am proficient in **Python** (Pandas, NumPy, Matplotlib), **SQL**, and have hands-on experience with **AWS** and **Docker**.
+  
+- 📫 How to reach me: **contato@gabrielmelo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,7 +14,40 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+###
 
-![Snake animation](https://github.com/gabriellmelo/gabriellmelo/blob/output/github-contribution-grid-snake.svg)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+</div>
+
+###
+
+<h3 align="left">My Data-Driven Experience:</h3>
+
+**Data Analyst (Volunteer)**: Led data analysis projects at **Unifran Jr** using **Google BigQuery**, **Python (Pandas, Matplotlib)**, and **SQL** to uncover insights from large datasets and create compelling data visualizations.
+- **Software Development Intern**: Contributed to data management and integration tasks at **Universo Prematuro**, working with **PostgreSQL**, **NestJS**, and Docker to optimize backend data workflows.
+- **Academic Projects**: 
+  - **Traffic Accident Mitigation**: Used **Python**, **Streamlit**, and **AI** to build interactive dashboards and visualizations to assist in data-driven decision-making.
+  - **Market Analysis**: Conducted in-depth market research using **Google BigQuery** and **Python** to present insights to industry professionals.
+  
+<h3 align="left">My Current Focus:</h3>
+
+- Pursuing a deeper understanding of **Data Science**, **Machine Learning**, and **AI**.
+- Looking to apply my technical skills in real-world **research** and **data-driven** environments.
+
+<img src="https://raw.githubusercontent.com/gabriellmelo/gabriellmelo/output/snake.svg" alt="Snake animation" />
+
+###
